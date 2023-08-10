@@ -15,7 +15,7 @@ import { CountryData } from '../types';
 // ]
 
 export const defaultCountries: CountryData[] = [
-  ['Afghanistan', ['asia'], 'af', '93'],
+  ['Афганистан', ['asia'], 'af', '93'],
   ['Albania', ['europe'], 'al', '355'],
   ['Algeria', ['africa', 'north-africa'], 'dz', '213'],
   ['Andorra', ['europe'], 'ad', '376'],
